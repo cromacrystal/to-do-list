@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+input {
+    padding: 10px;
+    padding-right: 200px;
+    background-color: burlywood;
+}
+.topP , .dumassMsg {
+    font-weight: 600;
+    font-size:xx-large;
+}
+.add {
+    font-weight: 400;
+    font-size: large;
+    padding: 7px;
+    background-color: yellowgreen;
+}
+.delete {
+    font-weight: 400;
+    font-size: large;
+    padding: 7px;
+    background-color: red;
+}
+.task {
+    font-weight: 400;
+    font-size:x-large;
+}
